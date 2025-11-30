@@ -1,7 +1,6 @@
 
 include:
   - proxy.yaml
-
 volumes:
   mysql_data:
 
