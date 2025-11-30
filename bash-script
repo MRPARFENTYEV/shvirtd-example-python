@@ -1,0 +1,17 @@
+#!/bin/bash
+
+sudo mkdir -p /opt
+
+cd /opt
+
+sudo rm -rf shvirtd-example-python
+
+sudo git clone -b 1-devops-newfeature https://github.com/MRPARFENTYEV/shvirtd-example-python.git
+
+cd shvirtd-example-python
+
+sudo chmod +x *.sh
+
+sudo docker-compose up -d
+
+sudo docker-compose ps
