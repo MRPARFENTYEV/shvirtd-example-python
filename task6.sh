@@ -1,4 +1,4 @@
-# 1. Скачиваем образ (если ещё нет)
+
 docker pull hashicorp/terraform:latest
 
 # 2. Устанавливаем dive (один раз)
