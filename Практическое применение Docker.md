@@ -167,7 +167,8 @@ docker run \
     > "backup/dump_$(date +%Y%m%d_%H%M%S).sql"
 ```
 
-![[Pasted image 20251207151713.png]]
+<img width="1280" height="259" alt="image" src="https://github.com/user-attachments/assets/d6ff3227-38ef-4147-b21c-a1ddb532e21b" />
+
 ## Задача 6
 ###Прошу обратить внимание что она выполнена на Manjaro(arch) linux
 
@@ -177,7 +178,8 @@ docker run \
 
 
 терраформа на убунте
-![[Pasted image 20251207151810.png]]
+<img width="1280" height="876" alt="image" src="https://github.com/user-attachments/assets/df77f0a6-5c0a-461b-9f96-f3634cf035b9" />
+
 
 на манжаре
 
@@ -199,7 +201,9 @@ chmod +x ~/terraform_from_image
 ~/terraform_from_image version
 ```
 
-![[Pasted image 20251207152131.png]]![[Pasted image 20251207152144.png]]
+<img width="1145" height="1280" alt="image" src="https://github.com/user-attachments/assets/44b5b9cf-8c5b-4abc-a3fc-441f97dac8e0" />
+<img width="1280" height="673" alt="image" src="https://github.com/user-attachments/assets/87ccb391-d608-4084-8169-a2926d9f46ad" />
+
 
 
 Замечания! Не в обиду, просто трудности с которыми я столкнулся. Претензий не имею.
