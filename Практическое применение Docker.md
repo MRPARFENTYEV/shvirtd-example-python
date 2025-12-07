@@ -114,7 +114,8 @@ networks:
 
 <img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/a51e1e29-d237-441f-a2c9-940eba6baa75" />
 Подключитесь к БД mysql с помощью команды ```docker exec -ti <имя_контейнера> mysql -uroot -p<пароль root-пользователя>\```
-![[Pasted image 20251207151228.png]]
+<img width="1097" height="1101" alt="image" src="https://github.com/user-attachments/assets/1713ade7-c737-4974-a4d1-5c261146591b" />
+
 ## Задача 4
 Напишите bash-скрипт
 ```
@@ -138,7 +139,8 @@ docker compose -f compose2.yaml ps
 ```
 
 Зайдите на сайт проверки http подключений, например(или аналогичный): ```https://check-host.net/check-http``` и запустите проверку вашего сервиса 
-![[Pasted image 20251207151503.png]]
+<img width="1176" height="1280" alt="image" src="https://github.com/user-attachments/assets/58a4627f-7285-4751-98bc-997600728c72" />
+
 
 ## Задача 5 
 
