@@ -112,7 +112,8 @@ networks:
         - subnet: 172.20.0.0/24
 ```
 
-![[Pasted image 20251207151111.png]]Подключитесь к БД mysql с помощью команды ```docker exec -ti <имя_контейнера> mysql -uroot -p<пароль root-пользователя>\```
+<img width="1280" height="166" alt="image" src="https://github.com/user-attachments/assets/a51e1e29-d237-441f-a2c9-940eba6baa75" />
+Подключитесь к БД mysql с помощью команды ```docker exec -ti <имя_контейнера> mysql -uroot -p<пароль root-пользователя>\```
 ![[Pasted image 20251207151228.png]]
 ## Задача 4
 Напишите bash-скрипт
